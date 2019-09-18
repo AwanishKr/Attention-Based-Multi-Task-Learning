@@ -7,6 +7,10 @@
 7) VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION(https://arxiv.org/pdf/1409.1556.pdf)
 8) An overview of multitask learning in deep neural networks (https://arxiv.org/pdf/1706.05098.pdf)
 
+Blog: 
+hard vs soft parameter sharing (https://www.geeksforgeeks.org/introduction-to-multi-task-learningmtl-for-deep-learning/)
+
+
 Future research on multitask learning: 
 9 ) https://arxiv.org/pdf/1906.05226.pdf
 10) https://arxiv.org/pdf/1707.07012.pdf 
